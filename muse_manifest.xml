@@ -1,0 +1,67 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bnbarchitects.com" resolutions="1x" timestamp="1615630789109">
+  <folder name="css">
+    <file name="site_global.css" crc="3782886658"/>
+    <file name="projects.css" crc="4193191577" ref="projects"/>
+    <file name="portfolio.css" crc="3937576095" ref="portfolio"/>
+    <file name="profile.css" crc="4193191577" ref="profile"/>
+    <file name="contact-us.css" crc="4193191577" ref="contact-us"/>
+    <file name="faqs.css" crc="4193191577" ref="faqs"/>
+    <file name="index.css" crc="305834286" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:profile:projects:faqs:contact-us"/>
+    <file name="museutils.js" crc="340535759" ref="index:portfolio:profile:projects:faqs:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:profile:projects:faqs:contact-us"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:portfolio:profile:projects:faqs:contact-us"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:portfolio:profile:projects:faqs:contact-us"/>
+    <file name="require.js" crc="7928878" ref="index:portfolio:profile:projects:faqs:contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="1by180x66.jpg" crc="3908868014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home (1).png" crc="4183231947" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="portfolio.png" crc="83657712" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="resume.png" crc="4222310674" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="project.png" crc="4229637916" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="faq.png" crc="3953704091" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="contact.png" crc="3998044275" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="uap.gif" crc="533935620" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pngtree-city-flat-background-image_285797-crop-u835.jpg" crc="303394910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1by1.jpg" crc="4269675935" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="modern-living-room-interior-with-sofa-green-plants-lamp-table-dark-wall-background_41470-1528 (1)_auto_x2-crop-u1117.jpg" crc="37379482" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4132735791" seo="true" mt="1615628879463" redirect="true"/>
+  <file name="portfolio.html" crc="4140176545" seo="true" mt="1615629670809" redirect="true"/>
+  <file name="profile.html" crc="4050278632" seo="true" mt="1615622143204" redirect="false"/>
+  <file name="projects.html" crc="3891501000" seo="true" mt="1615622148636" redirect="false"/>
+  <file name="faqs.html" crc="3807621676" seo="true" mt="1615622154252" redirect="false"/>
+  <file name="contact-us.html" crc="4114461038" seo="true" mt="1615622173036" redirect="false"/>
+</manifest>
